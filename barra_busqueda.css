@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.cajaBusqueda{
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 800px;
+    height: 75px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    position:relative;
+}
+
+.texto{
+    width: 500px;
+    height: 75px;
+    position:relative;
+    color: gray;
+    font-size: 42px;
+}
+.lupa{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: tomato;
+    position: relative;
+    top: -65px;
+    left: 700px;
+}

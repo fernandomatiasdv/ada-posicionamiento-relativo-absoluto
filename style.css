@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 800px;
+    height: 500px;
+    background-color: aquamarine;
+    position:relative;
+}
+.caja{
+    position: relative;
+    left: -25px;
+    bottom: 50px;
+    /* Valores posibles:
+            top : Arriba
+            right: Derecha
+            bottom: Abajo
+            left: Izquierda
+    */
+    width: 75px;
+    height: 75px;
+    background-color: blueviolet;
+}
+

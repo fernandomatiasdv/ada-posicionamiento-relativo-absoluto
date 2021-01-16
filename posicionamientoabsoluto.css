@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.displayflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 800px;
+    height: 650px;
+    background-color: turquoise;
+    
+}
+.caja1{
+    width: 600px;
+    height: 450px;
+    background-color: greenyellow;
+    position: absolute;
+}
+.caja2{
+    width: 400px;
+    height: 250px;
+    background-color: red;
+
+}
+.caja3{
+    width: 75px;
+    height: 75px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 0;
+    left: 35px;
+}
+
+
+
+
+
+
+
